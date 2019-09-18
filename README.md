@@ -1,3 +1,3 @@
-# TensorflowStudy
+# Learning Tensorflow
 
-This repository is related to studying tensorflow. Tensorflow is a blibrary used for ML .
+This repository is related to my Step-by-Step learning tensorflow. Tensorflow is a library used for ML .
