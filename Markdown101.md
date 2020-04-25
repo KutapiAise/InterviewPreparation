@@ -1,5 +1,7 @@
 #### Markdown 101
 
+https://guides.github.com/features/mastering-markdown/
+
 Markdown is a light markup language often used for READMEs (though you'll find other use cases for it, too!). It is fairly straightforward, and much of the syntax is intuitive.
 
 But as it turns out, there are many different dialects of Markdown, just like in a spoken language. Each of these dialects is known as a flavor of Markdown. Most of these dialects are pretty much the same, with only minor differences.
