@@ -15,4 +15,9 @@ https://github.com/udacity/ud777-writing-readmes
 
 https://choosealicense.com/
 
+
+##### 4. How to write git commit messages
+
+http://udacity.github.io/git-styleguide/
+
     
