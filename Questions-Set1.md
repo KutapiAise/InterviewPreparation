@@ -6,4 +6,4 @@
     say in the 3rd drawer. So, you will just search in the 3rd drawer, instead of searching in all drawers. 
     That's what we call O(1), because in the worst scenario you will look in just one drawer.
 
-- ![Edureka Interview Qustions](https://www.edureka.co/blog/interview-questions/python-interview-questions/#WhatarethekeyfeaturesofPython?)
+- [Edureka Interview Qustions](https://www.edureka.co/blog/interview-questions/python-interview-questions/#WhatarethekeyfeaturesofPython?)
